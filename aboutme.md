@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: import pain as pn
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+As of Septemeber 2019, I'm a newcomer to scientific Data Science area.
+"Scientific", as opposed to "I have an opinion and I'm not afraid to use it". 
+A day will come when I'm able to say "I have a model for that, and I'm not afraid to use it". 
+Brace yourself.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+GK
